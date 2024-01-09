@@ -239,28 +239,28 @@ Future steps involve a deeper exploration of the US and Foreign film markets to 
 
 # Structure Map
 
-├── Introduction
-│   ├── Business Understanding
-│   └── Data Understanding
-│
-├── Data Preparation
-│   ├── Retrieval and Unzipping
-│   ├── Exploring SQL Database Tables
-│   ├── Statistical Analysis
-│   ├── Data Cleaning
-│   └── Merging and Preparation
-│
-├── Exploratory Data Analysis
-│   ├── ROI Calculation
-│   ├── Data Visualization
-│   ├── Budget Analysis
-│   └── Genre, Seasonal, and Staff Analysis
-│
-├── Recommendations
-│   └── Lower, Middle, Higher Budget Recommendations
-│
-├── Conclusions
-│
-├── Limitations
-│
-└── Next Steps
+├── Introduction<br>
+│   ├── Business Understanding<br>
+│   └── Data Understanding<br>
+│<br>
+├── Data Preparation<br>
+│   ├── Retrieval and Unzipping<br>
+│   ├── Exploring SQL Database Tables<br>
+│   ├── Statistical Analysis<br>
+│   ├── Data Cleaning<br>
+│   └── Merging and Preparation<br>
+│<br>
+├── Exploratory Data Analysis<br>
+│   ├── ROI Calculation<br>
+│   ├── Data Visualization<br>
+│   ├── Budget Analysis<br>
+│   └── Genre, Seasonal, and Staff Analysis<br>
+│<br>
+├── Recommendations<br>
+│   └── Lower, Middle, Higher Budget Recommendations<br>
+│<br>
+├── Conclusions<br>
+│<br>
+├── Limitations<br>
+│<br>
+└── Next Steps<br>
