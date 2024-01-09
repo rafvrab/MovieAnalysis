@@ -236,3 +236,32 @@ The analysis presents actionable insights for optimizing film production strateg
 # Next Steps
 
 Future steps involve a deeper exploration of the US and Foreign film markets to understand their influence on the industry. Accessing data from the last six years will complement existing datasets for a comprehensive analysis of recent trends. Further exploration of the original datasets may offer insights lost during the merging process, enhancing the completeness and relevance of the research.
+
+# Structure Map
+
+1. Introduction
+   - Business Understanding
+   - Data Understanding
+
+2. Data Preparation
+   - Retrieval and Unzipping
+   - Exploring SQL Database Tables
+   - Statistical Analysis
+   - Data Cleaning
+   - Merging and Preparation
+
+3. Exploratory Data Analysis
+   - ROI Calculation
+   - Data Visualization
+   - Budget Analysis
+   - Genre, Seasonal, and Staff Analysis
+
+4. Recommendations
+   - Lower, Middle, Higher Budget Recommendations
+
+5. Conclusions
+
+6. Limitations
+
+7. Next Steps
+
