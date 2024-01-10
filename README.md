@@ -239,28 +239,18 @@ Future steps involve a deeper exploration of the US and Foreign film markets to 
 
 # Structure Map
 
-├── Introduction<br>
-│   ├── Business Understanding<br>
-│   └── Data Understanding<br>
-│<br>
-├── Data Preparation<br>
-│   ├── Retrieval and Unzipping<br>
-│   ├── Exploring SQL Database Tables<br>
-│   ├── Statistical Analysis<br>
-│   ├── Data Cleaning<br>
-│   └── Merging and Preparation<br>
-│<br>
-├── Exploratory Data Analysis<br>
-│   ├── ROI Calculation<br>
-│   ├── Data Visualization<br>
-│   ├── Budget Analysis<br>
-│   └── Genre, Seasonal, and Staff Analysis<br>
-│<br>
-├── Recommendations<br>
-│   └── Lower, Middle, Higher Budget Recommendations<br>
-│<br>
-├── Conclusions<br>
-│<br>
-├── Limitations<br>
-│<br>
-└── Next Steps<br>
+GitHub Repository: https://github.com/rafvrab/MovieAnalysis/tree/main
+
+┌ .gitignore
+├ Film_Analysis.pdf
+├ README.md
+└ analysis.ipynb
+
+Data Files Repository: https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/tree/master/zippedData
+
+┌ bom.movie_gross.csv.gz
+├ im.db.zip
+├ rt.movie_info.tsv.gz
+├ rt.reviews.tsv.gz
+├ tmdb.movies.csv.gz
+└ tn.movie_budgets.csv.gz
