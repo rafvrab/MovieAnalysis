@@ -241,16 +241,16 @@ Future steps involve a deeper exploration of the US and Foreign film markets to 
 
 GitHub Repository: https://github.com/rafvrab/MovieAnalysis/tree/main
 
-┌ .gitignore
-├ Film_Analysis.pdf
-├ README.md
-└ analysis.ipynb
+┌ .gitignore<br>
+├ Film_Analysis.pdf<br>
+├ README.md<br>
+└ analysis.ipynb<br><br>
 
 Data Files Repository: https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/tree/master/zippedData
 
-┌ bom.movie_gross.csv.gz
-├ im.db.zip
-├ rt.movie_info.tsv.gz
-├ rt.reviews.tsv.gz
-├ tmdb.movies.csv.gz
-└ tn.movie_budgets.csv.gz
+┌ bom.movie_gross.csv.gz<br>
+├ im.db.zip<br>
+├ rt.movie_info.tsv.gz<br>
+├ rt.reviews.tsv.gz<br>
+├ tmdb.movies.csv.gz<br>
+└ tn.movie_budgets.csv.gz<br>
