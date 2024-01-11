@@ -39,7 +39,7 @@ Tailored suggestions for lower, middle, and higher budget films, including genre
 - **Seasons**: July, November, January
 - **Staff**: Sam Taylor-Johnson (Director, Producer, Actress), Seth MacFarlane (Writer, Music Department, Producer), Conrad Vernon (Actor, Producer, Animation Department)
 
-![Middle Budget Recommendations](Images/mlbr.jpg)
+![Middle Budget Recommendations](Images/mbr.jpg)
 
 ### Higher Budget Recommendations
 - **Genres**: Biography, Drama, Music
