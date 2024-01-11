@@ -224,7 +224,7 @@ The recommendations section synthesizes key insights and offers strategic guidan
 
 # Conclusions
 
-The analysis presents actionable insights for optimizing film production strategies across various budget brackets. These insights, ranging from genre preferences and release timings to key staff roles, offer valuable recommendations tailored to different budget categories. Stakeholders can utilize this information as a starting point for informed investment and production decisions.
+The analysis emphasizes optimizing film production across budgets, emphasizing the lower bracket for superior ROI. Stakeholders can leverage these insights for informed investment and production decisions.
 
 # Limitations
 
