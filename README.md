@@ -6,23 +6,6 @@
 **Instructors**: Morgan Jones, Mark Barbour<br>
 **Blog URL**: https://medium.com/@rafvrab
 
-## Business Understanding
-Analyzing datasets for Microsoft's film venture to provide actionable insights. Tasked with understanding key factors for successful box office performance. The primary stakeholders are Microsoft's Board of Directors, guiding decisions on genres, directors, and critical success factors. The project empowers the Board to curate a high-potential movie portfolio.
-
-## Data Overview
-Utilizing datasets from Box Office Mojo, IMDb, Rotten Tomatoes, The Movie DB, and The Numbers for comprehensive analysis.
-- **Box Office Mojo**: `bom.movie_gross.csv.gz` (53,544 bytes)
-- **IMDb**: `im.db.zip` (67,149,708 bytes)
-  - Key Tables: `df_mb`, `df_dir`, `df_kf`, `df_akas`, `df_ratings`, `df_persons`, `df_principals`, `df_writers`
-- **Rotten Tomatoes**: `rt.movie_info.tsv.gz` (498,202 bytes), `rt.reviews.tsv.gz` (3,402,194 bytes)
-- **The Movie DB**: `tmdb.movies.csv.gz` (827,840 bytes)
-- **The Numbers**: `tn.movie_budgets.csv.gz` (153,218 bytes)
-- 
-**Student Name**: [Rafael V Rabinovich](mailto:rafvrab@gmail.com)<br>
-**Student Pace**: Flex pace<br>
-**Instructors**: Morgan Jones, Mark Barbour<br>
-**Blog URL**: https://medium.com/@rafvrab
-
 # Business Understanding
 Analyzing datasets for Microsoft's film venture to provide actionable insights. Tasked with understanding key factors for successful box office performance. The primary stakeholders are Microsoft's Board of Directors, guiding decisions on genres, directors, and critical success factors. The project empowers the Board to curate a high-potential movie portfolio.
 
@@ -35,7 +18,7 @@ The project utilizes the following data files:
 - **Rotten Tomatoes**: `rt.movie_info.tsv.gz` (498,202 bytes), `rt.reviews.tsv.gz` (3,402,194 bytes)
 - **The Movie DB**: `tmdb.movies.csv.gz` (827,840 bytes)
 - **The Numbers**: `tn.movie_budgets.csv.gz` (153,218 bytes)
-- 
+  
 # Data Preparation
 #### Data Exploration Process
 This section outlines the steps involved in preparing and cleaning the dataset for analysis. The dataset consists of various movie-related tables obtained from different sources.
@@ -103,6 +86,7 @@ Calculating ROI, visualizing top genres, analyzing metrics, categorizing product
 #### Return on Investment (ROI) Calculation
 
 The ROI and net profit for each movie were computed using the provided formulas: Net Profit = Gross Revenue - Budget, and ROI = (Net Profit / Budget) * 100. These metrics were calculated to gauge the profitability of movies in the dataset.
+
 ### Data Visualizations
 #### Top 25 Film Genres by ROI
 Bar plot showcasing top 25 film genres by mean ROI.
@@ -149,6 +133,7 @@ Tailored suggestions for lower, middle, and higher budget films, including genre
 
 ### Overall Recommendations
 Overall, the lower budget bracket (below $15 million per film) consistently yields the best ROI. Genre and staff significantly influence ROI, surpassing the impact of the release season.
+
 ![Overall Recommendations](Images/oar.jpg)
 
 
