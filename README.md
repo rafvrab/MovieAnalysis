@@ -2,7 +2,7 @@
 ## Flatiron School Data Science Phase 1 Project
 
 **Student Name**: [Rafael V Rabinovich](mailto:rafvrab@gmail.com)<br>
-**Student Pace**: Flex pace<br>
+**Student Pace**: Flex Pace<br>
 **Instructors**: Morgan Jones, Mark Barbour<br>
 **Blog URL**: https://medium.com/@rafvrab
 
@@ -159,3 +159,4 @@ Data Files Repository: https://github.com/learn-co-curriculum/dsc-phase-1-projec
 ├ rt.reviews.tsv.gz<br>
 ├ tmdb.movies.csv.gz<br>
 └ tn.movie_budgets.csv.gz<br>
+
