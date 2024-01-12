@@ -162,12 +162,12 @@ Analysis limited to provided dataset, potential data limitations, and high-level
 Deeper exploration of film markets, acquiring recent data, and revisiting original datasets for enhanced completeness.
 
 # Structure Map
-GitHub Repository: https://github.com/rafvrab/MovieAnalysis/tree/main
+GitHub Repository: https://github.com/rafvrab/MovieAnalysis/tree/main  <br>
 ┌ .gitignore<br>
 ├ Film_Analysis.pdf<br>
 ├ README.md<br>
 └ analysis.ipynb<br><br>
-Data Files Repository: https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/tree/master/zippedData
+Data Files Repository: https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/tree/master/zippedData  <br>
 ┌ bom.movie_gross.csv.gz<br>
 ├ im.db.zip<br>
 ├ rt.movie_info.tsv.gz<br>
